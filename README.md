@@ -6,6 +6,16 @@ In this directory, we present the supplemental material for our paper entitled "
 
 
 
+This math is inline $`a^2+b^2=c^2`$.
+
+This is on a separate line
+
+```math
+a^2+b^2=c^2
+```
+
+
+
 ## Weight Approximation Methods
 
 ---
