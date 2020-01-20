@@ -6,24 +6,7 @@ In this directory, we present the supplemental material for our paper entitled "
 
 
 
-This math is inline $`a^2+b^2=c^2`$.
-
-This is on a separate line
-
-```math
-a^2+b^2=c^2
-```
-
-
-```python
-\begin{array}{lllll}
-\hline 
-  Rank & Attribute & ROC^a & RS^b & RR^c \\\hline
-  1    & Key freshness  & 0.6111              & 0.5000            & 0.5455 \\
-  2    & Data freshness & 0.2778              & 0.3333            & 0.2727 \\
-  3    & Temperature    & 0.1111              & 0.1667            & 0.1818 \\\hline 
-\end{array}
-```
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{array}{lllll}&space;\hline&space;Rank&space;&&space;Attribute&space;&&space;ROC^a&space;&&space;RS^b&space;&&space;RR^c&space;\\\hline&space;1&space;&&space;Key&space;freshness&space;&&space;0.6111&space;&&space;0.5000&space;&&space;0.5455&space;\\&space;2&space;&&space;Data&space;freshness&space;&&space;0.2778&space;&&space;0.3333&space;&&space;0.2727&space;\\&space;3&space;&&space;Temperature&space;&&space;0.1111&space;&&space;0.1667&space;&&space;0.1818&space;\\\hline&space;\end{array}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\begin{array}{lllll}&space;\hline&space;Rank&space;&&space;Attribute&space;&&space;ROC^a&space;&&space;RS^b&space;&&space;RR^c&space;\\\hline&space;1&space;&&space;Key&space;freshness&space;&&space;0.6111&space;&&space;0.5000&space;&&space;0.5455&space;\\&space;2&space;&&space;Data&space;freshness&space;&&space;0.2778&space;&&space;0.3333&space;&&space;0.2727&space;\\&space;3&space;&&space;Temperature&space;&&space;0.1111&space;&&space;0.1667&space;&&space;0.1818&space;\\\hline&space;\end{array}" title="\begin{array}{lllll} \hline Rank & Attribute & ROC^a & RS^b & RR^c \\\hline 1 & Key freshness & 0.6111 & 0.5000 & 0.5455 \\ 2 & Data freshness & 0.2778 & 0.3333 & 0.2727 \\ 3 & Temperature & 0.1111 & 0.1667 & 0.1818 \\\hline \end{array}" /></a>
 
 
 
