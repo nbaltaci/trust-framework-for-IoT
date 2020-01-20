@@ -15,7 +15,7 @@ a^2+b^2=c^2
 ```
 
 
-```math
+```python
 \begin{array}{lllll}
 \hline 
   Rank & Attribute & ROC^a & RS^b & RR^c \\\hline
