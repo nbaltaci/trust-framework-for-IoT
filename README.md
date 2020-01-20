@@ -15,6 +15,17 @@ a^2+b^2=c^2
 ```
 
 
+```math
+\begin{array}{lllll}
+\hline 
+  Rank & Attribute & ROC^a & RS^b & RR^c \\\hline
+  1    & Key freshness  & 0.6111              & 0.5000            & 0.5455 \\
+  2    & Data freshness & 0.2778              & 0.3333            & 0.2727 \\
+  3    & Temperature    & 0.1111              & 0.1667            & 0.1818 \\\hline 
+\end{array}
+```
+
+
 
 ## Weight Approximation Methods
 
